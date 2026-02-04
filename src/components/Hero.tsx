@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Calendar, Building2 } from 'lucide-react';
 
 const heroImages = [
-  '/images/image1.jpg',
-  '/images/image2.jpg',
-  '/images/image3.jpg',
+  '/prime-properties-website/images/image1.jpg',
+  '/prime-properties-website/images/image2.jpg',
+  '/prime-properties-website/images/image3.jpg',
 ];
 
 export default function Hero() {
@@ -66,7 +66,7 @@ export default function Hero() {
           <div className="max-w-3xl">
             <div className="mb-6">
               <span className="inline-block px-4 py-2 bg-amber-500/20 border border-amber-500 text-amber-500 rounded-full text-sm font-semibold mb-4">
-                Founded by MD Aiman
+                Founded by MD Aiman Aslam
               </span>
             </div>
 

@@ -17,7 +17,7 @@ export default function Footer() {
               Prime Properties <span className="text-amber-500">Bangalore</span>
             </h3>
             <p className="text-gray-400 leading-relaxed mb-4">
-              Founded by MD Aiman, specializing in large extended properties for Outrate and Joint Development with Tier-1 builders.
+              Founded under the vision of MD Aiman Aslam, PrimeProperties Bangalore focuses on large extended properties and joint development with Tier‑1 builders.
             </p>
           </div>
 
