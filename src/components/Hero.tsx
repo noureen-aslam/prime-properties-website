@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Calendar, Building2 } from 'lucide-react';
 
 const heroImages = [
-  '/prime-properties-website/images/image1.jpg',
-  '/prime-properties-website/images/image2.jpg',
-  '/prime-properties-website/images/image3.jpg',
+  'images/image1.jpg',
+  'images/image2.jpg',
+  'images/image3.jpg',
 ];
 
 export default function Hero() {
