@@ -75,7 +75,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:primepropertiesbanglore@gmail.com"
+                  href="mailto:consultation@primepropertiesbangalore.in"
                   className="flex items-center gap-3 text-gray-400 hover:text-amber-500 transition-colors group"
                 >
                   <div className="bg-amber-500/10 p-2 rounded-lg group-hover:bg-amber-500/20 transition-colors">
