@@ -18,7 +18,7 @@ export default function Header() {
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center gap-3 flex-shrink-0">
   <img
-  src="/prime-properties-website/images/logo.jpg"
+  src="images/logo.jpg"
     alt="Prime Properties Logo"
     className="h-32 w-auto"
     onError={(e) => {
